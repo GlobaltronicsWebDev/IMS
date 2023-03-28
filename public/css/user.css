@@ -1,0 +1,62 @@
+.nav-user{
+    background-color: #166ccf;
+}
+
+
+.user-toggler{
+    background-color: rgb(241, 241, 241);
+}
+
+
+.navuser-brand{
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+}
+
+
+.navuser-nav {
+
+
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+
+.navuser-logo{
+    max-width: 25%;
+    display: inline;
+}
+
+
+.navuser-link{
+    color:rgb(242, 247, 252);
+}
+
+
+.navuser-link:hover{
+    text-decoration: none;
+    color: rgb(208, 211, 214);
+}
+
+
+.active{
+    font-weight: bold;
+    text-decoration-line: underline;
+  text-decoration-style: solid;
+}
+
+
+.active:hover{
+    font-weight: bold;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+}
+
+
+.rounded-circle {
+    border-radius: 50% !important; }
